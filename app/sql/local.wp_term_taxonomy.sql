@@ -1,0 +1,30 @@
+/*!40101 SET NAMES binary*/;
+/*!40014 SET FOREIGN_KEY_CHECKS=0*/;
+/*!40103 SET TIME_ZONE='+00:00' */;
+INSERT INTO `wp_term_taxonomy` VALUES
+(1,1,"category","",0,1),
+(2,2,"product_type","",0,14),
+(3,3,"product_type","",0,1),
+(4,4,"product_type","",0,1),
+(5,5,"product_type","",0,1),
+(6,6,"product_visibility","",0,1),
+(7,7,"product_visibility","",0,1),
+(8,8,"product_visibility","",0,4),
+(9,9,"product_visibility","",0,0),
+(10,10,"product_visibility","",0,0),
+(11,11,"product_visibility","",0,0),
+(12,12,"product_visibility","",0,0),
+(13,13,"product_visibility","",0,0),
+(14,14,"product_visibility","",0,0),
+(15,15,"product_cat","",0,0),
+(16,16,"product_cat","",0,1),
+(17,17,"product_cat","",16,4),
+(18,18,"product_cat","",16,4),
+(19,19,"product_cat","",16,5),
+(20,20,"product_cat","",0,2),
+(21,21,"product_cat","",0,1),
+(22,22,"pa_color","",0,3),
+(23,23,"pa_color","",0,2),
+(24,24,"pa_color","",0,3),
+(25,25,"pa_color","",0,3),
+(26,26,"pa_color","",0,1);
