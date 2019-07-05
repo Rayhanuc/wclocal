@@ -321,6 +321,16 @@ add_filter( 'wp_resource_hints', 'twentyseventeen_resource_hints', 10, 2 );
  */
 function twentyseventeen_widgets_init() {
 	register_sidebar( array(
+		'name'          => __( 'Shop Sidebar', 'twentyseventeen' ),
+		'id'            => 'shop-sidebar-1',
+		'description'   => __( 'Add widgets here to appear in your shop sidebar on blog posts and archive pages.', 'twentyseventeen' ),
+		'before_widget' => '<section id="%1$s" class="widget %2$s">',
+		'after_widget'  => '</section>',
+		'before_title'  => '<h2 class="widget-title">',
+		'after_title'   => '</h2>',
+	) );
+
+	register_sidebar( array(
 		'name'          => __( 'Blog Sidebar', 'twentyseventeen' ),
 		'id'            => 'sidebar-1',
 		'description'   => __( 'Add widgets here to appear in your sidebar on blog posts and archive pages.', 'twentyseventeen' ),
@@ -637,7 +647,7 @@ require get_parent_theme_file_path( '/inc/icon-functions.php' );
 
 remove_action('woocommerce_single_product_summary', 'woocommerce_template_single_meta', 40);
 add_action('woocommerce_after_single_product_summary', 'woocommerce_template_single_meta', 40);
-// add_action('woocommerce_single_product_summary', 'woocommerce_template_single_excerpt', 9);
+
 add_action('woocommerce_short_description', 'ts_woocommerce_short_description');
 function ts_woocommerce_short_description($desc){
     return strtoupper($desc);
@@ -657,5 +667,10 @@ function ts_woocommerce_product_tabs($tabs) {
 }
 
 function ts_newtab() {
-    the_title();
+    ?>
+	<h2><?php echo get_the_title(); ?></h2>
+    <?php
 }
+
+// remove_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_excerpt', 20 );
+// add_action('woocommerce_single_product_summary', 'woocommerce_template_single_excerpt', 0);

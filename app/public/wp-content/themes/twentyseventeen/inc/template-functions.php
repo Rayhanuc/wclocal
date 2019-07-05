@@ -40,7 +40,7 @@ function twentyseventeen_body_classes( $classes ) {
 	}
 
 	// Add class if sidebar is used.
-	if ( is_active_sidebar( 'sidebar-1' ) && ! is_page() ) {
+	if ( is_active_sidebar( 'sidebar-1' ) && ! is_page() || (is_shop() && is_active_sidebar('shop-sidebar-1')) ) {
 		$classes[] = 'has-sidebar';
 	}
 

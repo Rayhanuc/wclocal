@@ -9,12 +9,20 @@
  * @since 1.0
  * @version 1.0
  */
-
-if ( ! is_active_sidebar( 'sidebar-1' ) ) {
+if (is_shop() && !is_active_sidebar('shop-sidebar-1')) {
+	return;
+}else if ( !is_shop() && ! is_active_sidebar( 'sidebar-1' ) ) {
 	return;
 }
 ?>
 
 <aside id="secondary" class="widget-area" role="complementary" aria-label="<?php esc_attr_e( 'Blog Sidebar', 'twentyseventeen' ); ?>">
-	<?php dynamic_sidebar( 'sidebar-1' ); ?>
+	<?php
+	if (is_shop()) {
+		dynamic_sidebar( 'shop-sidebar-1' );
+	}else {
+		dynamic_sidebar( 'sidebar-1' );
+	}
+
+	?>
 </aside><!-- #secondary -->

@@ -3,3 +3,6 @@
 [19-Jan-2019 19:17:17 UTC] PHP Warning:  Illegal string offset 'title' in /app/public/wp-content/plugins/woocommerce/templates/single-product/tabs/tabs.php on line 37
 [19-Jan-2019 19:21:33 UTC] PHP Parse error:  syntax error, unexpected ''priority'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/themes/twentyseventeen/functions.php on line 653
 [23-Jun-2019 07:33:47 UTC] PHP Warning:  Error while sending QUERY packet. PID=649 in /app/public/wp-includes/wp-db.php on line 1924
+[05-Jul-2019 12:30:41 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/twentyseventeen/woocommerce/single-product/short-description.php on line 33
+[05-Jul-2019 12:47:03 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'ts_woocommerce_short_description' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[05-Jul-2019 14:04:27 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'ts_woocommerce_short_description' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286

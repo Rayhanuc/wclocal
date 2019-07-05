@@ -31,4 +31,4 @@ $heading = esc_html( apply_filters( 'woocommerce_product_description_heading', _
 <?php endif; ?>
 
 <?php the_content(); ?>
-Hello world
+<h1 style="color:red; text-transform: uppercase;"><?php echo "Hello world" ?></h1>
