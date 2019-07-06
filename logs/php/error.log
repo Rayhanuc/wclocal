@@ -49,3 +49,4 @@
 [06-Jul-2019 13:30:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'denver_loop_shop_columns' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
 [06-Jul-2019 13:30:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'denver_loop_shop_columns' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
 [06-Jul-2019 13:30:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'denver_loop_shop_columns' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[06-Jul-2019 17:13:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/denver/functions.php on line 46

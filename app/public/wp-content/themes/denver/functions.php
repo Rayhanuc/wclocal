@@ -41,3 +41,11 @@ function denver_loop_shop_columns($number_of_columns){
 	return 3;
 }
 add_filter('loop_shop_columns','denver_loop_shop_columns');
+
+
+// কোন প্রোডাক্ট বাদ দেয়া।
+/*function denver_woocommerce_product_query($wq){
+	$wq->set('post__not_in',array(21,22,14));
+	return $wq;
+}
+add_filter('woocommerce_product_query','denver_woocommerce_product_query');*/
