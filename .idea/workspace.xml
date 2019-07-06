@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32cc039d-1922-43fe-962d-806cc23d3713" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/404.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/archive.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/author.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/comments.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/composer.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/css/custom-editor-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/css/custom-editor-style.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/css/custom-editor-style.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/css/theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/css/theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/css/theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/global-templates/hero.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/global-templates/left-sidebar-check.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/global-templates/right-sidebar-check.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/gulpconfig.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/inc/class-wp-bootstrap-navwalker.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/inc/custom-comments.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/inc/custom-header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/inc/customizer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/inc/deprecated.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/inc/editor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/inc/enqueue.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/inc/extras.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/inc/hooks.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/inc/jetpack.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/inc/pagination.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/inc/setup.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/inc/style-wpcom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/inc/template-tags.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/inc/theme-settings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/inc/widgets.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/inc/woocommerce.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/inc/wpcom.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/js/customizer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/js/theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/js/theme.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/de_DE.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/de_DE.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/de_DE_formal.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/de_DE_formal.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/el_GR.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/el_GR.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/es_ES.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/es_ES.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/fr_FR.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/fr_FR.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/he_IL.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/he_IL.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/it_IT.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/it_IT.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/ja_JP.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/ja_JP.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/ko_KR.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/ko_KR.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/nb_NO.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/nb_NO.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/nl_NL.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/nl_NL.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/nn_NO.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/nn_NO.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/pl_PL.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/pl_PL.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/pt_BR.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/pt_BR.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/pt_PT.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/pt_PT.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/ru_RU.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/ru_RU.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/sl_SI.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/sl_SI.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/sv_SE.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/sv_SE.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/tr_TR.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/tr_TR.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/languages/understrap.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/loop-templates/content-blank.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/loop-templates/content-empty.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/loop-templates/content-none.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/loop-templates/content-page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/loop-templates/content-search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/loop-templates/content-single.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/loop-templates/content.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/package-lock.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/page-templates/blank.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/page-templates/both-sidebarspage.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/page-templates/empty.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/page-templates/fullwidthpage.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/page-templates/left-sidebarpage.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/page-templates/right-sidebarpage.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/phpcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/sass/assets/bootstrap4.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/sass/assets/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/sass/assets/underscores.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/sass/custom-editor-style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/sass/theme.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/sass/theme/_contact-form7.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/sass/theme/_theme.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/sass/theme/_theme_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/sass/understrap/understrap.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/sass/understrap/woocommerce.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/searchform.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/sidebar-templates/sidebar-footerfull.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/sidebar-templates/sidebar-hero.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/sidebar-templates/sidebar-herocanvas.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/sidebar-templates/sidebar-left.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/sidebar-templates/sidebar-right.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/sidebar-templates/sidebar-statichero.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/sidebar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/single.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/js/bootstrap4/bootstrap.bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/js/bootstrap4/bootstrap.bundle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/js/bootstrap4/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/js/bootstrap4/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/js/skip-link-focus-fix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_alert.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_badge.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_breadcrumb.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_button-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_card.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_carousel.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_close.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_code.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_custom-forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_dropdown.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_functions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_images.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_input-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_jumbotron.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_media.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_modal.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_nav.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_navbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_popover.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_print.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_progress.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_reboot.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_root.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_spinners.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_tables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_toasts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_tooltip.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_transitions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_type.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/bootstrap-grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/bootstrap-reboot.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/bootstrap.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_alert.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_background-variant.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_badge.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_border-radius.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_box-shadow.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_breakpoints.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_caret.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_clearfix.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_deprecate.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_float.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_gradients.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_grid-framework.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_hover.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_image.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_lists.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_nav-divider.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_reset-text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_resize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_screen-reader.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_size.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_table-row.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_text-emphasis.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_text-hide.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_text-truncate.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_transition.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/mixins/_visibility.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/utilities/_align.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/utilities/_background.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/utilities/_borders.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/utilities/_clearfix.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/utilities/_display.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/utilities/_embed.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/utilities/_flex.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/utilities/_float.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/utilities/_overflow.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/utilities/_position.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/utilities/_screenreaders.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/utilities/_shadows.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/utilities/_sizing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/utilities/_spacing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/utilities/_stretched-link.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/utilities/_text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/utilities/_visibility.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/bootstrap4/vendor/_rfs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/fontawesome/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/fontawesome/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/fontawesome/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/fontawesome/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/fontawesome/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/fontawesome/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/fontawesome/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/fontawesome/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/fontawesome/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/fontawesome/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/fontawesome/_screen-reader.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/fontawesome/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/fontawesome/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/fontawesome/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/underscores/_captions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/underscores/_galleries.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/src/sass/underscores/_media.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/cart/cart-empty.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/cart/cart.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/cart/mini-cart.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/cart/proceed-to-checkout-button.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/checkout/form-checkout.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/checkout/form-coupon.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/checkout/form-pay.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/checkout/payment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/global/form-login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/global/quantity-input.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/loop/add-to-cart.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/loop/orderby.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/myaccount/downloads.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/myaccount/form-edit-account.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/myaccount/form-edit-address.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/myaccount/form-login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/myaccount/form-lost-password.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/myaccount/form-reset-password.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/myaccount/my-address.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/myaccount/my-orders.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/myaccount/navigation.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/myaccount/orders.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/product-searchform.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/single-product/add-to-cart/simple.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/public/wp-content/themes/understrap/woocommerce/single-product/add-to-cart/variation-add-to-cart-button.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/mysql/error.log" afterPath="$PROJECT_DIR$/logs/mysql/error.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/supervisor/MailHog-stdout---supervisor-bLcovj.log" afterPath="$PROJECT_DIR$/logs/supervisor/MailHog-stdout---supervisor-bLcovj.log" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/denver/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-66">
+              <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CHANGELOG.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/denver/CHANGELOG.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-2134">
+                <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>understrap</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>denver</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Rayhan\Local Sites\wclocal\app\public\wp-content\themes\denver</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/public/wp-content/themes/denver/404.php" />
+        <option value="$PROJECT_DIR$/app/public/wp-content/themes/denver/CHANGELOG.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/app/public/wp-content/themes/denver/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="13" />
+    <option name="y" value="123" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wclocal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wclocal" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="wclocal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wclocal" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="wclocal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wclocal" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="wclocal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wclocal" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="wclocal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wclocal" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32cc039d-1922-43fe-962d-806cc23d3713" name="Default" comment="" />
+      <created>1562416619627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562416619627</updated>
+      <workItem from="1562416623514" duration="1994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1994000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/denver/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-351">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/denver/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/denver/CHANGELOG.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2134">
+            <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/denver/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
