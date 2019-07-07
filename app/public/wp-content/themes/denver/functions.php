@@ -49,3 +49,18 @@ add_filter('loop_shop_columns','denver_loop_shop_columns');
 	return $wq;
 }
 add_filter('woocommerce_product_query','denver_woocommerce_product_query');*/
+
+// কোন ক্যাটাগরি বাদ দেয়া।
+function denver_cat_woocommerce_product_query($wq){
+	$tax_query = (array) $wq->get('tax_query');
+	$tax_query[] = array(
+		'taxonomy' => 'product_cat',
+		'field' => 'slug',
+		'terms' => array('accessories','music'),
+		'operator' => 'NOT IN'
+	);
+	$wq->set('tax_query',$tax_query);
+	return $wq;
+}
+add_filter('woocommerce_product_query','denver_cat_woocommerce_product_query');
+
