@@ -64,3 +64,16 @@ function denver_cat_woocommerce_product_query($wq){
 }
 add_filter('woocommerce_product_query','denver_cat_woocommerce_product_query');
 
+
+
+function denver_woocommerce_before_shop_loop(){
+	echo "Hello World";
+}
+add_action('woocommerce_before_shop_loop','denver_woocommerce_before_shop_loop',8);
+
+
+function denver_woocommerce_before_main_content(){
+	echo "Before Everything";
+}
+add_action('woocommerce_before_main_content','denver_woocommerce_before_main_content');
+
