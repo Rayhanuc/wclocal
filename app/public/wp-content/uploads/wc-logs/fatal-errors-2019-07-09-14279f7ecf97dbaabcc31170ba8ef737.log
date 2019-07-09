@@ -4,3 +4,5 @@
 
 2019-07-09T05:37:17+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /app/public/wp-content/themes/Denver-master/functions.php on line 191
 
+2019-07-09T17:21:39+00:00 CRITICAL syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /app/public/wp-content/themes/Denver-master/functions.php on line 202
+

@@ -57,3 +57,4 @@
 [09-Jul-2019 05:36:27 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /app/public/wp-content/themes/Denver-master/functions.php on line 191
 [09-Jul-2019 05:37:17 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /app/public/wp-content/themes/Denver-master/functions.php on line 191
 [09-Jul-2019 05:42:58 UTC] PHP Warning:  Use of undefined constant get_queried_object - assumed 'get_queried_object' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/Denver-master/functions.php on line 188
+[09-Jul-2019 17:21:39 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /app/public/wp-content/themes/Denver-master/functions.php on line 202

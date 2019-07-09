@@ -106,3 +106,17 @@ ul.product-categories li ul li {
     border: none;
 }
 /*categories css end*/
+
+
+.bg-primary {
+    background-color: #a29dbe!important;
+}
+
+.btn-primary {
+    background-color: #a29dbe;
+    border-color: #a29dbe;
+}
+
+.navbar {
+    padding: 100px 0;
+}

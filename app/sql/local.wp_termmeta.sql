@@ -19,4 +19,6 @@ INSERT INTO `wp_termmeta` VALUES
 (15,19,"product_count_product_cat","5"),
 (16,26,"order_pa_color","0"),
 (17,20,"product_count_product_cat","2"),
-(18,21,"product_count_product_cat","1");
+(18,21,"product_count_product_cat","1"),
+(19,16,"display_type",""),
+(20,16,"thumbnail_id","68");
