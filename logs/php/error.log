@@ -50,3 +50,10 @@
 [06-Jul-2019 13:30:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'denver_loop_shop_columns' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
 [06-Jul-2019 13:30:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'denver_loop_shop_columns' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
 [06-Jul-2019 17:13:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/denver/functions.php on line 46
+[08-Jul-2019 19:38:48 UTC] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting '(' in /app/public/wp-content/themes/Denver-master/functions.php on line 182
+[08-Jul-2019 19:39:02 UTC] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting '(' in /app/public/wp-content/themes/Denver-master/functions.php on line 182
+[08-Jul-2019 19:39:12 UTC] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting '(' in /app/public/wp-content/themes/Denver-master/functions.php on line 182
+[09-Jul-2019 05:36:20 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /app/public/wp-content/themes/Denver-master/functions.php on line 191
+[09-Jul-2019 05:36:27 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /app/public/wp-content/themes/Denver-master/functions.php on line 191
+[09-Jul-2019 05:37:17 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /app/public/wp-content/themes/Denver-master/functions.php on line 191
+[09-Jul-2019 05:42:58 UTC] PHP Warning:  Use of undefined constant get_queried_object - assumed 'get_queried_object' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/Denver-master/functions.php on line 188

@@ -67,7 +67,9 @@ add_filter('woocommerce_product_query','denver_cat_woocommerce_product_query');
 
 
 function denver_woocommerce_before_shop_loop(){
-	echo "Hello World";
+	echo "<ul class='product-cats'>";
+	woocommerce_output_product_categories();
+	echo "</ul>";
 }
 add_action('woocommerce_before_shop_loop','denver_woocommerce_before_shop_loop',8);
 
