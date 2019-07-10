@@ -66,16 +66,85 @@ add_filter('woocommerce_product_query','denver_cat_woocommerce_product_query');
 
 
 
-function denver_woocommerce_before_shop_loop(){
-	echo "<ul class='product-cats'>";
+// this function added by Rayhan Uddin Chowdhury (((Bishal)))
+function denver2_woocommerce_before_shop_loop(){
+	$term_id = get_queried_object()->term_id;
+	// print_r(get_queried_object());
+	$parent_id = get_queried_object()->parent;
+
+	if ($term_id == $parent_id) {
+	echo "<ul class='products columns-3'>";
 	woocommerce_output_product_categories();
 	echo "</ul>";
+	}
+
+	if ($parent_id>0) {
+		$term_id = $parent_id;
+	}
+	if ($term_id) {
+		echo "<ul class='products columns-3'>";
+		woocommerce_output_product_categories(array(
+			'parent_id' => $term_id
+		));
+		echo "</ul>";
+	}
+	echo "<div class='clearfix'></div>";
 }
-add_action('woocommerce_before_shop_loop','denver_woocommerce_before_shop_loop',8);
+// add_action( 'woocommerce_before_shop_loop', 'denver2_woocommerce_before_shop_loop', 8 );
+
+function denver2_woocommerce_before_shop_loop_jg(){
+	$cat_args = array(
+		'orderby' => 'name',
+		'order' => 'asc',
+		'hide_empty' => true,
+	);
+
+	$product_categories = get_terms('product_cat', $cat_args);
+	?>
+	<div id="justified_gallery" class="justified-category-list js-justifyGallery">
+		<?php foreach ($product_categories as $product_category ) : ?>
+			<?php
+			$thumbnail_id =  get_woocommerce_term_meta($product_category->term_id, 'thumbnail_id',true);
+			$thumbnail = wp_get_attachment_image_url($thumbnail_id,'large');
+
+			if (!$thumbnail) {
+				continue;
+			}
+			?>
+
+			<a href="<?php echo esc_url(get_term_link($product_category,'product_cat')) ; ?>">
+				<?php if($thumbnail) : ?>
+					<img alt="<?php echo esc_attr($product_category->name); ?>"
+						src="<?php echo esc_url($thumbnail) ; ?>">
+				<?php endif; ?>
+
+				<span class="contents">
+					<?php if($product_category->name) : ?>
+						<h2><?php echo esc_html($product_category->name); ?></h2>
+					<?php endif; ?>
+					<?php if($product_category->description) : ?>
+					<p><?php echo esc_html($product_category->description); ?></p>
+					<?php endif; ?>
+				</span>
+			</a>
+
+		<?php endforeach; ?>
+	</div>
+
+	<?php
+}
+add_action('woocommerce_before_shop_loop','denver2_woocommerce_before_shop_loop_jg',8);
 
 
 function denver_woocommerce_before_main_content(){
 	echo "Before Everything";
 }
 add_action('woocommerce_before_main_content','denver_woocommerce_before_main_content');
+
+
+
+
+
+
+
 

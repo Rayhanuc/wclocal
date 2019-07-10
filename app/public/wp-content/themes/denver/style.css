@@ -38,6 +38,10 @@ The dependencies can be found in /src/ after running "gulp copy-assets" terminal
 
 /*Some extra style added by custom by user css start*/
 
+/*categories css start*/
+/* ul.product-categories {
+    padding-left: 0;
+}
 ul.product-categories li {
     margin: 0;
     padding: 13px 0;
@@ -51,8 +55,27 @@ ul.product-categories li a {
 
 ul.product-categories li ul li {
     border: none;
+} */
+/*categories css end*/
+
+
+.bg-primary {
+    background-color: #a29dbe!important;
 }
 
+.btn-primary {
+    background-color: #a29dbe;
+    border-color: #a29dbe;
+}
+
+.navbar {
+    padding: 100px 0;
+}
+
+.navbar h1 {
+    font-weight: 700;
+    font-size: 60px;
+}
 /*Some extra style added by custom by user css end*/
 
 
@@ -84,3 +107,31 @@ ul.product-cats li img {
         margin-right: 0;
     }
 }
+
+
+
+/*==========================================================*/
+
+/*JustifyedGallery start*/
+.justified-category-list a img {
+    -webkit-transition: all .3s !important;
+    transition: all .3s !important;
+}
+
+.justified-category-list a:hover img {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.justified-category-list .contents {
+    position: absolute;
+    right: 0;
+    bottom: 5%;
+    left: 0;
+    text-align: center;
+}
+.justified-category-list .contents h2 {
+    font-size: 1.5rem;
+}
+/*JustifyedGallery end*/

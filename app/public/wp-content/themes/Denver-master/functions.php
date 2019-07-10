@@ -47,7 +47,7 @@ function denver_woocommerce_product_query($wq){
 }
 add_filter('woocommerce_product_query','denver_woocommerce_product_query');*/
 
-/*function denver_woocommerce_product_query( $wq ) {
+function denver_woocommerce_product_query( $wq ) {
 	$tax_query   = (array) $wq->get( 'tax_query' );
 	$tax_query[] = array(
 		'taxonomy' => 'product_cat',
@@ -84,9 +84,10 @@ function denver_woocommerce_before_shop_loop() {
 		echo "</ul>";
 	}
 	echo "<div class='clearfix'></div>";
-}*/
+}
 
-/*function denver_woocommerce_before_shop_loop_jg(){
+
+function denver_woocommerce_before_shop_loop_jg(){
     if(isset($_GET['cg']) && $_GET['cg']==1) {
 	    $cat_args = array(
 		    'orderby'    => 'name',
@@ -129,7 +130,8 @@ function denver_woocommerce_before_shop_loop() {
 	    <?php
     }
 }
-add_action( 'woocommerce_before_shop_loop', 'denver_woocommerce_before_shop_loop_jg', 8 );*/
+
+add_action( 'woocommerce_before_shop_loop', 'denver_woocommerce_before_shop_loop_jg', 8 );
 
 /*function denver_woocommerce_before_main_content() {
 	echo "Before Everything";
@@ -179,7 +181,9 @@ add_action('loop_shop_columns','denver_loop_shop_columns2');*/
 // }
 // add_filter('woocommerce_checkout_fields', 'devnver_woocommerce_checkout_fields');
 
-function denver2_woocommerce_before_shop_loop(){
+
+// this function added by Rayhan Uddin Chowdhury (((Bishal)))
+/*function denver2_woocommerce_before_shop_loop(){
 	$term_id = get_queried_object()->term_id;
 	// print_r(get_queried_object());
 	$parent_id = get_queried_object()->parent;
@@ -202,4 +206,4 @@ function denver2_woocommerce_before_shop_loop(){
 	}
 	echo "<div class='clearfix'></div>";
 }
-add_action('woocommerce_before_shop_loop','denver2_woocommerce_before_shop_loop',8);
+add_action('woocommerce_before_shop_loop','denver2_woocommerce_before_shop_loop',8)*/;
