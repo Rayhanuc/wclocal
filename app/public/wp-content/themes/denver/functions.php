@@ -56,7 +56,7 @@ function denver_cat_woocommerce_product_query($wq){
 	$tax_query[] = array(
 		'taxonomy' => 'product_cat',
 		'field' => 'slug',
-		'terms' => array('accessories','music'),
+		// 'terms' => array('accessories'),
 		'operator' => 'NOT IN'
 	);
 	$wq->set('tax_query',$tax_query);
@@ -93,6 +93,8 @@ function denver2_woocommerce_before_shop_loop(){
 // add_action( 'woocommerce_before_shop_loop', 'denver2_woocommerce_before_shop_loop', 8 );
 
 function denver2_woocommerce_before_shop_loop_jg(){
+	if (isset($_GET['cg']) && $_GET['cg'] == 1) {
+
 	$cat_args = array(
 		'orderby' => 'name',
 		'order' => 'asc',
@@ -132,6 +134,8 @@ function denver2_woocommerce_before_shop_loop_jg(){
 	</div>
 
 	<?php
+	
+	}
 }
 add_action('woocommerce_before_shop_loop','denver2_woocommerce_before_shop_loop_jg',8);
 
@@ -141,10 +145,22 @@ function denver_woocommerce_before_main_content(){
 }
 add_action('woocommerce_before_main_content','denver_woocommerce_before_main_content');
 
+function denver_woocommerce_product_query2($wcq){
+	if (isset($_GET['wcpagination']) && $_GET['wcpagination'] == 0) {
+		$wcq->set('posts_per_page',-1);
+	}
+	return $wcq;
+}
+add_action('woocommerce_product_query','denver_woocommerce_product_query2');
 
 
-
-
+function denver_loop_shop_columns2($nc){
+	if (isset($_GET['nc']) && $_GET['nc']>0) {
+		$nc = sanitize_text_field($_GET['nc']) ;
+	}
+	return $nc;
+}
+add_action('loop_shop_columns','denver_loop_shop_columns2');
 
 
 
