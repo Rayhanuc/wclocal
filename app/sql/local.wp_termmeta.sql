@@ -21,4 +21,16 @@ INSERT INTO `wp_termmeta` VALUES
 (17,20,"product_count_product_cat","2"),
 (18,21,"product_count_product_cat","1"),
 (19,16,"display_type",""),
-(20,16,"thumbnail_id","68");
+(20,16,"thumbnail_id","68"),
+(21,15,"display_type",""),
+(22,15,"thumbnail_id","80"),
+(23,19,"display_type",""),
+(24,19,"thumbnail_id","79"),
+(25,18,"display_type",""),
+(26,18,"thumbnail_id","78"),
+(27,17,"display_type",""),
+(28,17,"thumbnail_id","77"),
+(29,21,"display_type",""),
+(30,21,"thumbnail_id","76"),
+(31,20,"display_type",""),
+(32,20,"thumbnail_id","84");

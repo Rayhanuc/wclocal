@@ -163,4 +163,30 @@ function denver_loop_shop_columns2($nc){
 add_action('loop_shop_columns','denver_loop_shop_columns2');
 
 
+function denver_woocommerce_checkout_fields($fields){
 
+	/*echo "<pre>";
+	print_r($fields);
+	echo "</pre>";*/
+
+	// For billing unset
+	unset($fields['billing']['billing_company']);
+	unset($fields['billing']['billing_address_1']);
+	unset($fields['billing']['billing_address_2']);
+	unset($fields['billing']['billing_city']);
+	unset($fields['billing']['billing_postcode']);
+	unset($fields['billing']['billing_country']);
+	unset($fields['billing']['billing_state']);
+
+	// For shipping unset
+	unset($fields['shipping']['shipping_company']);
+	unset($fields['shipping']['shipping_address_1']);
+	unset($fields['shipping']['shipping_address_2']);
+	unset($fields['shipping']['shipping_city']);
+	unset($fields['shipping']['shipping_postcode']);
+	unset($fields['shipping']['shipping_country']);
+	unset($fields['shipping']['shipping_state']);
+
+	return $fields;
+}
+add_filter('woocommerce_checkout_fields', 'denver_woocommerce_checkout_fields');
